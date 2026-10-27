@@ -4,3 +4,5 @@
 En este trabajo vamos a ver un poco las funcionalidades de GitHub, para que sirve, los _merges_, los _pull request_, etc.
 
 [GitHubIntroduccionPaulaDelgadoPintado.pdf](https://github.com/user-attachments/files/34036184/GitHubIntroduccionPaulaDelgadoPintado.pdf)
+
+[Canva con el trabajo de introduccion a GitHub](https://canva.link/qvs0bduxnj39eno)
