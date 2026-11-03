@@ -89,3 +89,17 @@ Objetivo
 
 Identificar, evaluar y utilizar una herramienta de generación de documentación aplicada a un proyecto real trabajado en el curso anterior.
 
+[Proyecto comentado y documentación de este](https://github.com/Paula424/Gestion-Biblioteca)
+
+```
+
+Le das a la carpeta -> le das a target -> le das a apidocs -> index.html
+
+Index.html, es dodne te sale el codigo el proyecto la documentación de este.
+
+```
+[EvaluaciónYUsoDeUnGeneradorDeDocumentacionPaulaDelgadoPintado.pdf](https://github.com/user-attachments/files/34334706/EvaluacionYUsoDeUnGeneradorDeDocumentacionPaulaDelgadoPintado.pdf)
+
+[Enlace a Canva de el pdf](https://canva.link/goirmbnqxoa1ous)
+
+
