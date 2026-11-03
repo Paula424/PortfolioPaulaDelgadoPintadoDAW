@@ -103,3 +103,6 @@ Index.html, es dodne te sale el codigo el proyecto la documentación de este.
 [Enlace a Canva de el pdf](https://canva.link/goirmbnqxoa1ous)
 
 
+### **5. Práctica de seguridad y accesibilidad en el control de versiones**
+En esta práctica vas a trabajar sobre un repositorio que contenga un proyecto del curso pasado. El objetivo es garantizar que la documentación y el código se gestionen de forma segura y accesible dentro del sistema de control de versiones.
+
