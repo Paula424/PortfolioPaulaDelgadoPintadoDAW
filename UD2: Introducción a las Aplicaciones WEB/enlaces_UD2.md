@@ -22,3 +22,7 @@ Un cuestionario sobre los temas que han ido las presentaciones
 
 ### **3. Iniciación a la virtualización**
 Pasos a seguir para iniciar una máquina virtual de Ubuntu y instalarnos Docker Desktop en ella.
+
+[MarkDown que enseña los pasos que seguí yo para la virtualización](https://github.com/Paula424/Iniciaci-n-a-la-virtualizacion/blob/main/Iniciacion%20a%20la%20virtualizaci%C3%B3n.md)
+
+[Documentación en MarkDown de los requerimientos para implantar una aplicación web](https://github.com/Paula424/Iniciaci-n-a-la-virtualizacion/blob/main/Documentaci%C3%B3n%20de%20los%20requerimientos%20para%20implantar%20una%20aplicaci%C3%B3n%20web.md)
