@@ -106,3 +106,11 @@ Index.html, es dodne te sale el codigo el proyecto la documentación de este.
 ### **5. Práctica de seguridad y accesibilidad en el control de versiones**
 En esta práctica vas a trabajar sobre un repositorio que contenga un proyecto del curso pasado. El objetivo es garantizar que la documentación y el código se gestionen de forma segura y accesible dentro del sistema de control de versiones.
 
+Proyecto comentado y documentación de este
+[PracticaDeSeguridadYAccesibilidadEnElControlDeVersionesPaulaDelgadoPintado.pdf](https://github.com/user-attachments/files/35233786/PracticaDeSeguridadYAccesibilidadEnElControlDeVersionesPaulaDelgadoPintado.pdf)
+
+[En lace a Canva del pdf](https://canva.link/lm5yb18chgawfwz)
+
+[Enlace al repositorio donde tenemos el proyecto](https://github.com/Paula424/Gestion-Biblioteca)
+
+En el enlace se ven dos proyectos, pues el de esta práctica es la versión 2.
